@@ -119,6 +119,11 @@ b {
     background-color: #ffa481;
 }
 
+.grid-item video {
+    width: 100%;
+    background-color: #ffa481;
+}
+
 .grid-item a {
     opacity: 1;
     transition: opacity 0.3s ease;
